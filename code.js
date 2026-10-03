@@ -86,7 +86,7 @@
     loading_title: {
       en: "Loading Pokémon AR…",
       zh_tw: "正在載入 口袋妖怪 AR…",
-      zh_cn: "正在加载 口袋妖怪 AR…",
+      zh_cn: "正在加载 精灵宝可梦 AR…",
     },
     requesting_camera: {
       en: "Requesting camera…",
